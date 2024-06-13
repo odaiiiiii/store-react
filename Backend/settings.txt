@@ -1,0 +1,2 @@
+root: C:\Users\odaia\OneDrive\Desktop\React\Ecommerce Copy\Backend
+path: C:\Program Files\nodejs
